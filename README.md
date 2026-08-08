@@ -1,4 +1,4 @@
-# CalcWise
+# CalcWise - The Smart Calculator
 
 Official Release Repository for CalcWise for Android and Windows.
 
