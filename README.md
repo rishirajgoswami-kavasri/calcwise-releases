@@ -70,6 +70,9 @@ See [Support](docs/SUPPORT.md).
 **Full-Stack Developer:**  
 Rishiraj Goswami, B.CA., CEH & CCNP
 
+**UI/UX & Graphics Designer:**
+Ritaban Goswami, B.A.(Psychology Hons.)
+
 ## Repository Purpose
 
 This repository is the official public distribution and documentation repository for CalcWise.
